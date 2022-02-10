@@ -6,7 +6,6 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Chess But Cool</h1>
-       <h1>Shopping List</h1>
         <ul>
           <li>Instagram</li>
           <li>WhatsApp</li>
