@@ -6,6 +6,12 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Chess But Cool</h1>
+       <h1>Shopping List</h1>
+        <ul>
+          <li>Instagram</li>
+          <li>WhatsApp</li>
+          <li>Oculus</li>
+        </ul>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           The Future platform of Wizard Chess, a program being developed by Adam and Austin
