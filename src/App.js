@@ -4,11 +4,6 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-    <ul>
-          <li>Instagram</li>
-          <li>WhatsApp</li>
-          <li>Oculus</li>
-        </ul>
       <header className="App-header">
         <h1>Chess But Cool</h1>
         <img src={logo} className="App-logo" alt="logo" />
