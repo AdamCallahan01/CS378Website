@@ -4,8 +4,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Chess But Cool</h1>
       <header className="App-header">
+        <h1>Chess But Cool</h1>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           The Future platform of Wizard Chess, a program being developed by Adam and Austin
